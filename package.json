@@ -1,0 +1,19 @@
+{
+  "name": "benin-gsm-provider",
+  "version": "0.0.1",
+  "description": "Benin GSM Providers est un package npm complet qui répertorie tous les opérateurs GSM du Bénin, ainsi que leurs préfixes de numéros de téléphone correspondants.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahtandev/benin-gsm-provider.git"
+  },
+  "author": "nahtandev",
+  "license": "SEE LICENSE IN <LICENSE>",
+  "bugs": {
+    "url": "https://github.com/nahtandev/benin-gsm-provider/issues"
+  },
+  "homepage": "https://github.com/nahtandev/benin-gsm-provider#readme"
+}

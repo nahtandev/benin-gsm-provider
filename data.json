@@ -1,0 +1,84 @@
+{
+  "gsmNetwork": [
+    {
+      "name": "MTN Bénin",
+      "code": "mtn-benin",
+      "flagUrl": {
+        "960x960": "https://upload.wikimedia.org/wikipedia/commons/9/93/New-mtn-logo.jpg",
+        "600x600": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/New-mtn-logo.jpg/600px-New-mtn-logo.jpg",
+        "240x240": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/New-mtn-logo.jpg/240px-New-mtn-logo.jpg",
+        "480x480": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/New-mtn-logo.jpg/480px-New-mtn-logo.jpg"
+      },
+      "prefix": [
+        {
+          "prefix": 50,
+          "format": "50xxxxxx"
+        },
+        {
+          "prefix": 51,
+          "format": "51xxxxxx"
+        },
+        {
+          "prefix": 52,
+          "format": "52xxxxxx"
+        },
+        {
+          "prefix": 53,
+          "format": "53xxxxxx"
+        },
+        {
+          "prefix": 54,
+          "format": "54xxxxxx"
+        },
+        {
+          "prefix": 56,
+          "format": "56xxxxxx"
+        },
+        {
+          "prefix": 57,
+          "format": "57xxxxxx"
+        },
+        {
+          "prefix": 59,
+          "format": "59xxxxxx"
+        },
+        {
+          "prefix": 61,
+          "format": "61xxxxx"
+        },
+        {
+          "prefix": 62,
+          "format": "62xxxxxx"
+        },
+        {
+          "prefix": 66,
+          "format": "66xxxxxx"
+        },
+        {
+          "prefix": 67,
+          "format": "67xxxxxx"
+        },
+        {
+          "prefix": 69,
+          "format": "69xxxxxx"
+        },
+        {
+          "prefix": 90,
+          "format": "90xxxxxx"
+        },
+        {
+          "prefix": 91,
+          "format": "91xxxxxx"
+        },
+        {
+          "prefix": 96,
+          "format": "96xxxxxx"
+        },
+        {
+          "prefix": 97,
+          "format": "97xxxxxx"
+        }
+      ]
+    }
+  ]
+}
