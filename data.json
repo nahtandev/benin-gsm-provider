@@ -11,72 +11,125 @@
       },
       "prefix": [
         {
-          "prefix": 50,
+          "code": 50,
           "format": "50xxxxxx"
         },
         {
-          "prefix": 51,
+          "code": 51,
           "format": "51xxxxxx"
         },
         {
-          "prefix": 52,
+          "code": 52,
           "format": "52xxxxxx"
         },
         {
-          "prefix": 53,
+          "code": 53,
           "format": "53xxxxxx"
         },
         {
-          "prefix": 54,
+          "code": 54,
           "format": "54xxxxxx"
         },
         {
-          "prefix": 56,
+          "code": 56,
           "format": "56xxxxxx"
         },
         {
-          "prefix": 57,
+          "code": 57,
           "format": "57xxxxxx"
         },
         {
-          "prefix": 59,
+          "code": 59,
           "format": "59xxxxxx"
         },
         {
-          "prefix": 61,
+          "code": 61,
           "format": "61xxxxx"
         },
         {
-          "prefix": 62,
+          "code": 62,
           "format": "62xxxxxx"
         },
         {
-          "prefix": 66,
+          "code": 66,
           "format": "66xxxxxx"
         },
         {
-          "prefix": 67,
+          "code": 67,
           "format": "67xxxxxx"
         },
         {
-          "prefix": 69,
+          "code": 69,
           "format": "69xxxxxx"
         },
         {
-          "prefix": 90,
+          "code": 90,
           "format": "90xxxxxx"
         },
         {
-          "prefix": 91,
+          "code": 91,
           "format": "91xxxxxx"
         },
         {
-          "prefix": 96,
+          "code": 96,
           "format": "96xxxxxx"
         },
         {
-          "prefix": 97,
+          "code": 97,
           "format": "97xxxxxx"
+        }
+      ]
+    },
+    {
+      "name": "Moov Africa Bénin",
+      "code": "moov-benin",
+      "flagUrl": {
+        "750×430": "https://upload.wikimedia.org/wikipedia/fr/1/1d/Moov_Africa_logo.png"
+      },
+      "prefix": [
+        {
+          "code": 55,
+          "format": "55xxxxxx"
+        },
+        {
+          "code": 58,
+          "format": "58xxxxxx"
+        },
+        {
+          "code": 60,
+          "format": "60xxxxxx"
+        },
+        {
+          "code": 63,
+          "format": "63xxxxxx"
+        },
+        {
+          "code": 64,
+          "format": "64xxxxxx"
+        },
+        {
+          "code": 65,
+          "format": "65xxxxxx"
+        },
+        {
+          "code": 68,
+          "format": "68xxxxxx"
+        },
+        {
+          "code": 94,
+          "format": "94xxxxxx"
+        },
+        {
+          "code": 95,
+          "format": "95xxxxxx"
+        },
+        {
+          "code": 98,
+          "format": "98xxxxxx"
+        },
+        {
+          "code": 99,
+          "format": "99xxxxxx"
         }
       ]
     }
